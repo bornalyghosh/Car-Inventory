@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1706883209 source:c:\users\borna\downloads\car inventory\car invent\main.cpp
+	<iostream>
+	<string>
+
